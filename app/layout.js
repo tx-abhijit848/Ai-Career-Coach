@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
             {/*footer*/}
             <footer className="bg-muted/50 py-12">
               <div className="container mx-auto flex max-w-4xl flex-col items-center justify-between px-4">
-                Made by Abhijit with💓
+                Made by Abhijit&Mukund with💓
               </div>
             </footer>
           </ThemeProvider>
