@@ -19,7 +19,7 @@ import { features } from "@/data/features";
 import { howItWorks } from "@/data/howItWorks";
 import { testimonial } from "@/data/testimonial";
 import { faqs } from "@/data/faqs";
-//import Image from "next/image";
+import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
